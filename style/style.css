@@ -1,0 +1,8 @@
+.container_preloader {
+    display: flex;
+    justify-content: center;
+}
+
+.sub_container_preloader {
+    width: 150px;
+}
